@@ -1,0 +1,92 @@
+C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE>python lib/run_analysis.py demo_input -o output -v
+
+======================================================================
+   [*] RISK CARTOGRAPHY ANALYSIS
+   Corruption Risk Dashboard Generator
+======================================================================
+
+00:00:38 - INFO - Running in legacy mode (directory scanning)
+00:00:40 - INFO - Input directory:  C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\demo_input
+00:00:40 - INFO - Output directory: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output
+00:00:40 - INFO -
+📂 STEP 1: Loading Excel files (legacy mode)...
+00:00:40 - INFO - Found 8 Excel files in C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\demo_input
+00:00:41 - INFO -   ✓ risk_cartography_ACME_Asia_Pacific: 35 risks loaded
+00:00:41 - INFO -   ✓ risk_cartography_ACME_Europe: 35 risks loaded
+00:00:41 - INFO -   ✓ risk_cartography_ACME_Finance_Services: 35 risks loaded
+00:00:41 - INFO -   ✓ risk_cartography_ACME_Headquarters: 35 risks loaded
+00:00:41 - INFO -   ✓ risk_cartography_ACME_Manufacturing: 35 risks loaded
+00:00:41 - INFO -   ✓ risk_cartography_ACME_North_America: 35 risks loaded
+00:00:41 - INFO -   ✓ risk_cartography_ACME_R&D: 35 risks loaded
+00:00:41 - INFO -   ✓ risk_cartography_ACME_Supply_Chain: 35 risks loaded
+00:00:41 - INFO -
+Total: 280 risk records from 8 entities
+00:00:41 - INFO - ✓ Loaded 280 records from 8 files
+00:00:41 - INFO -
+📊 STEP 2: Analyzing risk data...
+
+--------------------------------------------------
+[ANALYSIS SUMMARY]
+--------------------------------------------------
+   Total Risks Analyzed:    280
+   Total Entities:          8
+   Average Gross Score:     6.33
+   Average Residual Score:  2.54
+   Risk Reduction:          +59.9%
+
+[Risk Level Distribution]:
+   ? Low: 227 ( 81.1%) ################----
+   ? Moderate:  40 ( 14.3%) ##------------------
+   ? High:  13 (  4.6%) --------------------
+   ? Critical:   0 (  0.0%) --------------------
+
+[Mitigation Status]:
+   Improved:  254 (90.7%)
+   Unchanged: 26
+   Worsened:  0
+00:00:41 - INFO -
+🎨 STEP 3: Generating enhanced interactive dashboard...
+00:00:41 - INFO - Enhanced dashboard saved: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\risk_dashboard.html
+00:00:41 - INFO - ✓ Dashboard: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\risk_dashboard.html
+00:00:41 - INFO -
+📄 STEP 3b: Generating PDF reports...
+00:00:41 - WARNING - ReportLab not available. Install: pip install reportlab
+00:00:41 - WARNING - ⚠ PDF export failed: name 'colors' is not defined
+00:00:41 - INFO -
+📁 STEP 4: Exporting PowerBI files...
+00:00:41 - INFO - Exported risk data: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_risk_data.csv
+00:00:41 - INFO - Exported entity summary: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_entity_summary.csv
+00:00:41 - INFO - Exported category summary: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_category_summary.csv
+00:00:41 - INFO - Exported analysis JSON: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_analysis.json
+00:00:41 - INFO - Exported KPI summary: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_kpi_summary.csv
+00:00:41 - INFO - Exported level distribution: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_level_distribution.csv
+00:00:41 - INFO - Exported mitigation stats: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_mitigation.csv
+00:00:41 - INFO - Exported top risks: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_top_risks.csv
+00:00:41 - INFO - Exported executive summary: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_executive_summary.csv
+00:00:41 - INFO - Exported entity drill-down: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_entity_drilldown.csv
+00:00:41 - INFO - Exported category scores: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_category_scores.csv
+00:00:41 - INFO - Exported risk matrix: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_risk_matrix.csv
+00:00:41 - INFO - Exported AFA compliance metrics: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\powerbi_afa_compliance.csv
+00:00:42 - INFO - Exported Excel with charts: C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output\risk_analysis_report.xlsx
+00:00:42 - INFO -
+Exported 14 files to C:\Users\Ibtihel\Documents\RISK_CARTOGRAPHY_DELIVERY_v2.5.1\RISK_CARTOGRAPHY_DELIVERY_PACKAGE\output
+00:00:42 - INFO - ✓ risk_data: powerbi_risk_data.csv
+00:00:42 - INFO - ✓ entity_summary: powerbi_entity_summary.csv
+00:00:42 - INFO - ✓ category_summary: powerbi_category_summary.csv
+00:00:42 - INFO - ✓ analysis_json: powerbi_analysis.json
+00:00:42 - INFO - ✓ kpi_summary: powerbi_kpi_summary.csv
+00:00:42 - INFO - ✓ level_distribution: powerbi_level_distribution.csv
+00:00:42 - INFO - ✓ mitigation: powerbi_mitigation.csv
+00:00:42 - INFO - ✓ top_risks: powerbi_top_risks.csv
+00:00:42 - INFO - ✓ executive_summary: powerbi_executive_summary.csv
+00:00:42 - INFO - ✓ entity_drilldown: powerbi_entity_drilldown.csv
+00:00:42 - INFO - ✓ category_scores: powerbi_category_scores.csv
+00:00:42 - INFO - ✓ risk_matrix: powerbi_risk_matrix.csv
+00:00:42 - INFO - ✓ afa_compliance: powerbi_afa_compliance.csv
+00:00:42 - INFO - ✓ excel_report: risk_analysis_report.xlsx
+
+======================================================================
+   [OK] ANALYSIS COMPLETE
+======================================================================
+
+   Generated at: 2026-04-12 00:00:42
