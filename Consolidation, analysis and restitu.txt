@@ -12,15 +12,147 @@ Restitution of the results and definition of the associated action plans.
 
 
 
+Ci‑dessous, tu as **la structure complète des slides**, avec **les messages clés par slide**, alignés exactement avec ce que tu as demandé : **livrables, planning, dispositif/dimensionnement, méthodologie**, et **les volumes / missions** documentés.
 
-Turning data into a strategic decision-making tool
-Consolidation of Excel files at the entity/region/group level.
+## 🎯 SLIDE 1 – TITRE & CONTEXTE
 
-Calculation of the overall risk and the consolidated residual risk.
+**Titre :**  
+**Marché de planification – Livrables, Dispositif & Méthodologie**
 
-Analysis of the changes vs 2024 by integrating:
-The impacts of the new scenarios 
-Scoring variations
-Production of analytical summaries across the scope
-Restitution of the results and definition of the associated action plans.
+**Sous‑titre :**  
+Direction des Études Île‑de‑France – SNCF Réseau
+
+**Messages clés :**
+
+*   Prestations de planification amont et en production
+*   Périmètre DE IDF – PAP, PRC, PPI et Plateaux
+*   Outil principal : COPLANN (Sciforma SNCF)
+
+## 🗂️ SLIDE 2 – SYNTHÈSE DES LIVRABLES ATTENDUS
+
+**Livrables structurants du marché :**
+
+*   Plannings études sous COPLANN (amont & production)
+*   Rapports d’activité mensuels
+*   Rapport d’étonnement (tranche ferme)
+*   Tableaux de bord trimestriels
+*   Plans d’actions & fiches métiers
+*   Comptes‑rendus de réunions
+*   Rapports de fin de tranche
+
+## 📅 SLIDE 3 – PLANNING GLOBAL DU MARCHÉ (VISION ANNUELLE)
+
+**Planning global par tranche :**
+
+*   Tranche ferme : nov. 2025 – nov. 2026
+*   Tranches optionnelles : jusqu’en nov. 2028
+*   Prestations continues sur toute la durée du marché
+
+**Principes :**
+
+*   Activité récurrente et industrialisée
+*   Mise à jour régulière des plannings selon leur complexité
+
+## 📆 SLIDE 4 – DÉCLINAISON PAR ANNÉE
+
+**Année 1 (Tranche ferme) :**
+
+*   Mise en place du dispositif
+*   Production massive de plannings amont
+*   Stabilisation méthodologique
+*   Rapport d’étonnement + premiers KPI
+
+**Années suivantes (Tranches optionnelles) :**
+
+*   Régime nominal
+*   Optimisation des méthodes et outils
+*   Capitalisation & transfert de savoir‑faire
+
+## 📊 SLIDE 5 – VOLUMES DE PLANNINGS ATTENDUS (EXEMPLE TRANCHE FERME)
+
+**Volumes estimés (±10 %) :**
+
+*   \~400 plannings amont
+*   \~80 plannings complexes (>500 lignes)
+*   \~370 plannings classiques (200–500 lignes)
+*   \~150 plannings simples (<200 lignes)
+
+**Rythme de mise à jour :**
+
+*   Amont : 2/an
+*   Simples : trimestrielle
+*   Classiques & complexes : bimensuelle
+
+## 🧑‍🤝‍🧑 SLIDE 6 – DISPOSITIF : RÔLES IMPOSÉS
+
+**Rôles clés du dispositif :**
+
+*   Chef de projet / Pilote de prestation
+*   Planificateurs ingénieurs confirmés
+*   Planificateurs ingénieurs juniors
+*   Techniciens planification
+
+**Principes :**
+
+*   Équipe structurée et pilotée
+*   Continuité de service garantie
+*   Montée en compétence organisée
+
+## 📐 SLIDE 7 – DIMENSIONNEMENT & CHARGE
+
+**Dimensionnement basé sur :**
+
+*   Volumes de plannings par typologie
+*   Fréquence de mise à jour
+*   Complexité des projets
+
+**Répartition de la charge :**
+
+*   Par année
+*   Par mission (amont / production)
+*   Par livrable (planning, reporting, amélioration continue)
+
+## 🔄 SLIDE 8 – MÉTHODOLOGIE : APPROCHE PAR GRANDES ÉTAPES
+
+**Étapes clés :**
+
+1.  Initialisation des plannings (structure, tâches, ressources)
+2.  Affectation des charges & références
+3.  Mise à jour et pilotage régulier
+4.  Analyse critique & chemins critiques
+5.  Publication, reporting et clôture
+
+Méthode alignée avec les processus SNCF Réseau
+
+## 🧠 SLIDE 9 – COHÉRENCE AVEC LES MISSIONS DU CPT
+
+**Alignement fort avec :**
+
+*   Pilotage coûts / délais / qualité
+*   Plan de charge DE IDF
+*   Arbitrages production (interne / sous‑traitance / externalisation)
+*   Amélioration continue des pratiques
+
+**Instances clés :**
+
+*   RAMPE
+*   Réunions mensuelles de suivi
+*   Revues d’amélioration process
+
+## 📈 SLIDE 10 – VALEUR AJOUTÉE & RÉSULTATS ATTENDUS
+
+**Objectifs clés :**
+
+*   ≥95 % de plannings conformes et de qualité
+*   Meilleure visibilité charge / capacité
+*   Réduction des risques de dérive projet
+*   Outil de pilotage stratégique pour la DE IDF
+
+### ✅ Prochaine étape (rapide)
+
+Si tu veux, je peux :
+
+*   🔹 te **transformer cette trame en slides très synthétiques (1 slide = 3–4 bullets max)**
+*   🔹 te proposer une **version “comité de direction”**
+*   🔹 ou **faire un schéma visuel du dispositif & dimensionnement**
 
